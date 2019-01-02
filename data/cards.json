@@ -1,0 +1,127 @@
+[{
+    "Name": "Discover it!",
+    "CashBackList": [{
+            "Year": 2018,
+            "Quater": 1,
+            "Catagories": ["Gas Stations", "Wholesale Clubs"]
+        },
+        {
+            "Year": 2018,
+            "Quater": 2,
+            "Catagories": ["Grocery Stores"]
+        },
+        {
+            "Year": 2018,
+            "Quater": 3,
+            "Catagories": ["Restaurants"]
+        },
+        {
+            "Year": 2018,
+            "Quater": 4,
+            "Catagories": ["Amazon.com", "Wholesale Clubs"]
+        }, {
+            "Year": 2019,
+            "Quater": 1,
+            "Catagories": ["Grocery Stores"]
+        },
+        {
+            "Year": 2019,
+            "Quater": 2,
+            "Catagories": ["Gas Stations", "Uber", "Lyft"]
+        },
+        {
+            "Year": 2019,
+            "Quater": 3,
+            "Catagories": ["Restaurants"]
+        },
+        {
+            "Year": 2019,
+            "Quater": 4,
+            "Catagories": ["Amazon.com"]
+        }
+    ]
+}, {
+    "Name": "Chase Freedom",
+    "CashBackList": [{
+            "Year": 2018,
+            "Quater": 1,
+            "Catagories": ["Gas Stations", "Wholesale Clubs"]
+        },
+        {
+            "Year": 2018,
+            "Quater": 2,
+            "Catagories": ["Grocery Stores"]
+        },
+        {
+            "Year": 2018,
+            "Quater": 3,
+            "Catagories": ["Restaurants"]
+        },
+        {
+            "Year": 2018,
+            "Quater": 4,
+            "Catagories": ["Amazon.com", "Wholesale Clubs"]
+        }, {
+            "Year": 2019,
+            "Quater": 1,
+            "Catagories": ["Gas Stations", "Tolls", "Grugstores"]
+        },
+        {
+            "Year": 2019,
+            "Quater": 2,
+            "Catagories": []
+        },
+        {
+            "Year": 2019,
+            "Quater": 3,
+            "Catagories": []
+        },
+        {
+            "Year": 2019,
+            "Quater": 4,
+            "Catagories": []
+        }
+    ]
+}, {
+    "Name": "Citi Dividend",
+    "CashBackList": [{
+            "Year": 2018,
+            "Quater": 1,
+            "Catagories": ["Gas Stations", "Car Rentals"]
+        },
+        {
+            "Year": 2018,
+            "Quater": 2,
+            "Catagories": ["HomeDepot", "Home Furnishing Stores"]
+        },
+        {
+            "Year": 2018,
+            "Quater": 3,
+            "Catagories": ["Airlines", "Movie Theaters"]
+        },
+        {
+            "Year": 2018,
+            "Quater": 4,
+            "Catagories": ["BestBuy", "Department Stores"]
+        }, {
+            "Year": 2019,
+            "Quater": 1,
+            "Catagories": ["Gas Stations", "HomeDepot"]
+        },
+        {
+            "Year": 2019,
+            "Quater": 2,
+            "Catagories": ["Grugstores", "Fitness Clubs"]
+        },
+        {
+            "Year": 2019,
+            "Quater": 3,
+            "Catagories": ["Airlines", "Car Rentals"]
+        },
+        {
+            "Year": 2019,
+            "Quater": 4,
+            "Catagories": ["Department Stores", "BestBuy"]
+        }
+    ]
+}]
