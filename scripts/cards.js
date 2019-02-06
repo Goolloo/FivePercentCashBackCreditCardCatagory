@@ -27,7 +27,7 @@ function getCurrentQuarter() {
     var currentQuarter = {};
     var current = new Date();
     currentQuarter[cardCashbackYearKey] = current.getFullYear();
-    currentQuarter[cardCashbackQuarterKey] = current.getMonth() / 3 + 1;
+    currentQuarter[cardCashbackQuarterKey] = Math.floor(current.getMonth()/3) + 1;
 
     return currentQuarter;
 }
