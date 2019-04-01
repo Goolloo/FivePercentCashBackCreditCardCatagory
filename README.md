@@ -1,7 +1,7 @@
 # Five Percent Cashback Credit Card Catagory
 ## User
 ### iPhone User
-- Open link [https://goolloo.github.io/FivePercentCreditCardCatagory/](https://goolloo.github.io/FivePercentCreditCardCatagory/) in Safari
+- Open link [https://goolloo.github.io/FivePercentCashBackCreditCardCatagory/](https://goolloo.github.io/FivePercentCashBackCreditCardCatagory/) in Safari
 - Press share button at task bar
 - Swipe share options to right and click [**Add to Home Screen**](https://support.apple.com/guide/shortcuts/run-shortcuts-from-the-ios-home-screen-apd735880972/ios) button
 
@@ -9,7 +9,7 @@
 N/A
 
 ### Computer User
-Bookmark [https://goolloo.github.io/FivePercentCreditCardCatagory/](https://goolloo.github.io/FivePercentCreditCardCatagory/)
+Bookmark [https://goolloo.github.io/FivePercentCashBackCreditCardCatagory/](https://goolloo.github.io/FivePercentCashBackCreditCardCatagory/)
 
 ## Developer
 ### Windows
