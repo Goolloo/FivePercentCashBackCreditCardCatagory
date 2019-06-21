@@ -74,7 +74,7 @@
         {
             "Year": 2019,
             "Quater": 3,
-            "Catagories": []
+            "Catagories": ["Gas Stations", "Select Streaming Services"]
         },
         {
             "Year": 2019,
@@ -111,7 +111,7 @@
         {
             "Year": 2019,
             "Quater": 2,
-            "Catagories": ["Grugstores", "Fitness Clubs"]
+            "Catagories": ["Drugstores", "Fitness Clubs"]
         },
         {
             "Year": 2019,
