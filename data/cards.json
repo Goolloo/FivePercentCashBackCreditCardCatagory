@@ -79,7 +79,7 @@
         {
             "Year": 2019,
             "Quater": 4,
-            "Catagories": []
+            "Catagories": ["Department Stores", "Paypal", "Chase Pay"]
         }
     ]
 }, {
