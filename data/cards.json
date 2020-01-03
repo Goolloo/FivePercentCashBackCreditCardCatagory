@@ -38,26 +38,6 @@
             "Year": 2019,
             "Quater": 4,
             "Catagories": ["Amazon.com"]
-        },
-        {
-            "Year": 2020,
-            "Quater": 1,
-            "Catagories": ["Grocery Stores", "Walgreens", "CVS"]
-        },
-        {
-            "Year": 2020,
-            "Quater": 2,
-            "Catagories": ["Gas Stations, Uber, Lyft and Wholesale Clubs"]
-        },
-        {
-            "Year": 2020,
-            "Quater": 3,
-            "Catagories": ["Restaurants", "Paypal"]
-        },
-        {
-            "Year": 2020,
-            "Quater": 4,
-            "Catagories": ["Amazon.com", "Walmart.com", "Target.com"]
         }
     ]
 }, {

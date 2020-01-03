@@ -35,15 +35,15 @@ function getCurrentQuarter() {
 /**
  * Page element building functions
  */
-var containerId = "container";
-var currentQuarterAlertId = "currentQuarter";
-var cardPanelGroupId = "cards";
+const containerId = "container";
+const currentQuarterAlertId = "currentQuarter";
+const cardPanelGroupId = "cards";
 
-var cardNameKey = "Name";
-var cardCashbackListKey = "CashBackList";
-var cardCashbackYearKey = "Year";
-var cardCashbackQuarterKey = "Quater";
-var cardCashbackCatagoryKey = "Catagories";
+const cardNameKey = "Name";
+const cardCashbackListKey = "CashBackList";
+const cardCashbackYearKey = "Year";
+const cardCashbackQuarterKey = "Quater";
+const cardCashbackCatagoryKey = "Catagories";
 
 function displayCurrentQuarter() {
     var currentQuarter = getCurrentQuarter();
@@ -85,19 +85,39 @@ function buildCardPanelHeading(cardName) {
 }
 
 function buildCardPanelBody(cashBackList) {
-    var currentCashBackInfo;
-    var currentCashBack = findCurrentQuarterCatagory(cashBackList);
+    let currentCashBackInfo = [];
+    let currentCashBack = findCurrentQuarterCatagory(cashBackList);
     if (currentCashBack == null || currentCashBack == undefined) {
-        currentCashBackInfo = "Cashback catagory of current quarter hasn't been updated yet."
+        let emptyInfo = document.createElement('p');
+        emptyInfo.innerText = "Cash back category of current quarter hasn't been updated yet.";
+        currentCashBackInfo.push(emptyInfo);
     } else {
-        currentCashBackInfo = currentCashBack[cardCashbackCatagoryKey].join();
+        currentCashBackInfo = buildCashBackCategoryElements(currentCashBack[cardCashbackCatagoryKey]);
     }
 
-    var cardPanelBody = document.createElement("div");
+    let cardPanelBody = document.createElement("div");
     cardPanelBody.setAttribute("class", "panel-body");
-    cardPanelBody.innerHTML = currentCashBackInfo;
+    currentCashBackInfo.forEach(e => cardPanelBody.appendChild(e));
 
     return cardPanelBody;
+}
+
+function buildCashBackCategoryElements(currentCashBackCategories) {
+    let elements = [];
+	currentCashBackCategories.forEach(category =>
+        elements.push(
+            buildCashBackCategoryElement(category)));
+	return elements;
+}
+
+function buildCashBackCategoryElement(category) {
+    let headerContainer = document.createElement('h3');
+    let element = document.createElement('span');
+    element.setAttribute("class", "label label-primary");
+    element.innerText = category;
+
+    headerContainer.appendChild(element);
+    return headerContainer;
 }
 
 /**
