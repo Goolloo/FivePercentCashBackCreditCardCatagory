@@ -47,7 +47,7 @@
         {
             "Year": 2020,
             "Quater": 2,
-            "Catagories": ["Gas Stations, Uber, Lyft and Wholesale Clubs"]
+            "Catagories": ["Gas Stations", "Uber", "Lyft", "Wholesale Clubs"]
         },
         {
             "Year": 2020,
@@ -105,6 +105,16 @@
             "Year": 2020,
             "Quater": 1,
             "Catagories": ["Gas Stations", "Internet, cable and phone services", "Select streaming services"]
+        },
+        {
+            "Year": 2020,
+            "Quater": 2,
+            "Catagories": ["Grocery Stores", "Fitness Club & Gym Memberships", "Slect Streaming Services"]
+        },
+        {
+            "Year": 2020,
+            "Quater": 3,
+            "Catagories": ["Amazon.com", "Whole Foods Market"]
         }
     ]
 }, {
@@ -157,6 +167,11 @@
             "Year": 2020,
             "Quater": 2,
             "Catagories": ["Drugstores", "Amazon.com"]
+        },
+        {
+            "Year": 2020,
+            "Quater": 3,
+            "Catagories": ["Home Improvement Store", "Popular Streaming Services"]
         }
     ]
 }]
