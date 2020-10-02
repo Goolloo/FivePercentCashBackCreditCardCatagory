@@ -115,6 +115,11 @@
             "Year": 2020,
             "Quater": 3,
             "Catagories": ["Amazon.com", "Whole Foods Market"]
+        },
+        {
+            "Year": 2020,
+            "Quater": 4,
+            "Catagories": ["Walmart", "Paypal"]
         }
     ]
 }, {
@@ -172,6 +177,11 @@
             "Year": 2020,
             "Quater": 3,
             "Catagories": ["Home Improvement Store", "Popular Streaming Services"]
+        },
+        {
+            "Year": 2020,
+            "Quater": 3,
+            "Catagories": ["Best Buy®", "Online purchases at Warehouse clubs and Best Buy®"]
         }
     ]
 }]
