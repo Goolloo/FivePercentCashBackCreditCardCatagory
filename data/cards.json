@@ -58,6 +58,26 @@
             "Year": 2020,
             "Quater": 4,
             "Catagories": ["Amazon.com", "Walmart.com", "Target.com"]
+        },
+        {
+            "Year": 2021,
+            "Quater": 1,
+            "Catagories": ["Grocery Stores", "Walgreens", "CVS"]
+        },
+        {
+            "Year": 2021,
+            "Quater": 2,
+            "Catagories": ["Gas Stations", "Wholesale Clubs", "Select Streaming Services"]
+        },
+        {
+            "Year": 2021,
+            "Quater": 3,
+            "Catagories": ["Restaurants", "Paypal"]
+        },
+        {
+            "Year": 2021,
+            "Quater": 4,
+            "Catagories": ["Amazon.com", "Walmart.com", "Target.com"]
         }
     ]
 }, {
@@ -120,6 +140,11 @@
             "Year": 2020,
             "Quater": 4,
             "Catagories": ["Walmart", "Paypal"]
+        },
+        {
+            "Year": 2021,
+            "Quater": 1,
+            "Catagories": ["Wholesale Clubs", "Internet, cable and phone services", "Select streaming services"]
         }
     ]
 }, {
