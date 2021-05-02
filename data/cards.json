@@ -145,6 +145,11 @@
             "Year": 2021,
             "Quater": 1,
             "Catagories": ["Wholesale Clubs", "Internet, cable and phone services", "Select streaming services"]
+        },
+        {
+            "Year": 2021,
+            "Quater": 2,
+            "Catagories": ["Home improvement stores", "Gas stations"]
         }
     ]
 }, {
