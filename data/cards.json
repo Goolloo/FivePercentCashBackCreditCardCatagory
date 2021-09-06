@@ -150,6 +150,11 @@
             "Year": 2021,
             "Quater": 2,
             "Catagories": ["Home improvement stores", "Gas stations"]
+        },
+        {
+            "Year": 2021,
+            "Quater": 3,
+            "Catagories": ["Grocery stores (excluding Walmart and Target)", "Select streaming services"]
         }
     ]
 }, {
