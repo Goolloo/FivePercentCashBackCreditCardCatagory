@@ -155,6 +155,11 @@
             "Year": 2021,
             "Quater": 3,
             "Catagories": ["Grocery stores (excluding Walmart and Target)", "Select streaming services"]
+        },
+        {
+            "Year": 2021,
+            "Quater": 4,
+            "Catagories": ["Walmart", "Paypal"]
         }
     ]
 }, {
