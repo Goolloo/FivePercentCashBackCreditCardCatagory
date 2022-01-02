@@ -78,6 +78,26 @@
             "Year": 2021,
             "Quater": 4,
             "Catagories": ["Amazon.com", "Walmart.com", "Target.com"]
+        },
+        {
+            "Year": 2022,
+            "Quater": 1,
+            "Catagories": ["Grocery Stores", "Fitness Club & Gym Memberships"]
+        },
+        {
+            "Year": 2022,
+            "Quater": 2,
+            "Catagories": ["Gas Stations", "Target"]
+        },
+        {
+            "Year": 2022,
+            "Quater": 3,
+            "Catagories": ["Restaurants", "Paypal"]
+        },
+        {
+            "Year": 2022,
+            "Quater": 4,
+            "Catagories": ["Amazon.com", "Digital Wallets"]
         }
     ]
 }, {
