@@ -160,6 +160,26 @@
             "Year": 2021,
             "Quater": 4,
             "Catagories": ["Walmart", "Paypal"]
+        },
+        {
+            "Year": 2022,
+            "Quater": 1,
+            "Catagories": ["Grocery stores (excluding Walmart and Target)", "eBay"]
+        },
+        {
+            "Year": 2022,
+            "Quater": 2,
+            "Catagories": []
+        },
+        {
+            "Year": 2022,
+            "Quater": 3,
+            "Catagories": []
+        },
+        {
+            "Year": 2022,
+            "Quater": 4,
+            "Catagories": []
         }
     ]
 }, {
