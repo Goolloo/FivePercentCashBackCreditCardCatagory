@@ -101,7 +101,7 @@
         }
     ]
 }, {
-    "Name": "Chase Freedom",
+    "Name": "Chase Freedom / Freedom Flex",
     "CashBackList": [{
             "Year": 2018,
             "Quater": 1,
@@ -194,12 +194,18 @@
         {
             "Year": 2022,
             "Quater": 3,
-            "Catagories": []
+            "Catagories": [
+                "Gas Stations", 
+                "Car Rental Agencies", 
+                "Movie Theaters", 
+                "Select Live Entertainment"
+            ]
         },
         {
             "Year": 2022,
             "Quater": 4,
-            "Catagories": []
+            "Catagories": [
+            ]
         }
     ]
 }, {
