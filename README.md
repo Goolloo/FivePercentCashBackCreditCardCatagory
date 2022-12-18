@@ -28,7 +28,7 @@ npm install http-server -g
 Install [Node.js](https://nodejs.org/en/) on your develop machine
 #### Install local-web-server
 ```sh
-npm install ws
+npm install local-web-server
 ```
 #### Rune local-web-server
 - `cd` to your repo
