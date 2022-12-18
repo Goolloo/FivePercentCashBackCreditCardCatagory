@@ -98,6 +98,33 @@
             "Year": 2022,
             "Quater": 4,
             "Catagories": ["Amazon.com", "Digital Wallets"]
+        },
+        {
+            "Year": 2023,
+            "Quater": 1,
+            "Catagories": [
+                "Grocery Stores",
+                "Drug Stores",
+                "Select Streaming Services"
+            ]
+        },
+        {
+            "Year": 2023,
+            "Quater": 2,
+            "Catagories": [
+            ]
+        },
+        {
+            "Year": 2023,
+            "Quater": 3,
+            "Catagories": [
+            ]
+        },
+        {
+            "Year": 2023,
+            "Quater": 4,
+            "Catagories": [
+            ]
         }
     ]
 }, {
@@ -207,6 +234,33 @@
             "Catagories": [
                 "PayPal",
                 "Walmart"
+            ]
+        },
+        {
+            "Year": 2023,
+            "Quater": 1,
+            "Catagories": [
+                "Grocery Stores (excluding Walmart)",
+                "Target",
+                "Fitness Clubs and Gym Memberships"
+            ]
+        },
+        {
+            "Year": 2023,
+            "Quater": 2,
+            "Catagories": [
+            ]
+        },
+        {
+            "Year": 2023,
+            "Quater": 3,
+            "Catagories": [
+            ]
+        },
+        {
+            "Year": 2023,
+            "Quater": 4,
+            "Catagories": [
             ]
         }
     ]
