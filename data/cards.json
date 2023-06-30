@@ -119,6 +119,8 @@
             "Year": 2023,
             "Quater": 3,
             "Catagories": [
+                "Gas Stations",
+                "Digital Wallets"
             ]
         },
         {
@@ -257,6 +259,9 @@
             "Year": 2023,
             "Quater": 3,
             "Catagories": [
+                "Gas Stations",
+                "EV Charging",
+                "Select Live Entertainment"
             ]
         },
         {
