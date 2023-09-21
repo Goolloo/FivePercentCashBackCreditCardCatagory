@@ -127,6 +127,8 @@
             "Year": 2023,
             "Quater": 4,
             "Catagories": [
+                "Amazon",
+                "Target"
             ]
         }
     ]
@@ -268,6 +270,9 @@
             "Year": 2023,
             "Quater": 4,
             "Catagories": [
+                "PayPal",
+                "Wholesale Clubs",
+                "Select Charities"
             ]
         }
     ]
