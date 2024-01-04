@@ -130,6 +130,32 @@
                 "Amazon",
                 "Target"
             ]
+        },
+        {
+            "Year": 2024,
+            "Quater": 1,
+            "Catagories": [
+                "Restaurants",
+                "Drug Stores"
+            ]
+        },
+        {
+            "Year": 2024,
+            "Quater": 2,
+            "Catagories": [
+            ]
+        },
+        {
+            "Year": 2024,
+            "Quater": 3,
+            "Catagories": [
+            ]
+        },
+        {
+            "Year": 2024,
+            "Quater": 4,
+            "Catagories": [
+            ]
         }
     ]
 }, {
@@ -273,6 +299,33 @@
                 "PayPal",
                 "Wholesale Clubs",
                 "Select Charities"
+            ]
+        },
+        {
+            "Year": 2024,
+            "Quater": 1,
+            "Catagories": [
+                "Grocery Stores (excluding Walmart® and Target®)",
+                "Fitness Clubs & Gym Memberships",
+                "Self-Care & Spa Services"
+            ]
+        },
+        {
+            "Year": 2024,
+            "Quater": 2,
+            "Catagories": [
+            ]
+        },
+        {
+            "Year": 2024,
+            "Quater": 3,
+            "Catagories": [
+            ]
+        },
+        {
+            "Year": 2024,
+            "Quater": 4,
+            "Catagories": [
             ]
         }
     ]
