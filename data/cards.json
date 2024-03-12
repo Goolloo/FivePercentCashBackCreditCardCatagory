@@ -143,6 +143,10 @@
             "Year": 2024,
             "Quater": 2,
             "Catagories": [
+                "Gas Stations",
+                "Electric Vehicle Charging Stations",
+                "Home Improvement Stores",
+                "Public Transit"
             ]
         },
         {
