@@ -153,6 +153,8 @@
             "Year": 2024,
             "Quater": 3,
             "Catagories": [
+                "Walmart",
+                "Grocery Stores"
             ]
         },
         {
@@ -327,6 +329,10 @@
             "Year": 2024,
             "Quater": 3,
             "Catagories": [
+                "Gas Stations",
+                "EV Charging",
+                "Select Live Entertainment",
+                "Movie Theaters"
             ]
         },
         {
