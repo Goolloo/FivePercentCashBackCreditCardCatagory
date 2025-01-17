@@ -164,6 +164,33 @@
                 "Amazon.com",
                 "Target"
             ]
+        },
+        {
+            "Year": 2025,
+            "Quater": 1,
+            "Catagories": [
+                "Restaurants",
+                "Home Improvement Stores",
+                "Select Streaming Services"
+            ]
+        },
+        {
+            "Year": 2025,
+            "Quater": 2,
+            "Catagories": [
+            ]
+        },
+        {
+            "Year": 2025,
+            "Quater": 3,
+            "Catagories": [
+            ]
+        },
+        {
+            "Year": 2025,
+            "Quater": 4,
+            "Catagories": [
+            ]
         }
     ]
 }, {
@@ -345,6 +372,34 @@
                 "PAYPAL®",
                 "PET SHOPS AND VET SERVICES",
                 "SELECT CHARITIES"
+            ]
+        },
+        {
+            "Year": 2025,
+            "Quater": 1,
+            "Catagories": [
+                "Grocery Stores excluding Walmart® & Target®",
+                "Norwegian Cruise Line®",
+                "Fitness Clubs & Gym Memberships",
+                "Hair, Nails, & Spa Services"
+            ]
+        },
+        {
+            "Year": 2025,
+            "Quater": 2,
+            "Catagories": [
+            ]
+        },
+        {
+            "Year": 2025,
+            "Quater": 3,
+            "Catagories": [
+            ]
+        },
+        {
+            "Year": 2025,
+            "Quater": 4,
+            "Catagories": [
             ]
         }
     ]
