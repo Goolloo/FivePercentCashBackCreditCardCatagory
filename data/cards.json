@@ -186,6 +186,9 @@
             "Year": 2025,
             "Quater": 3,
             "Catagories": [
+                "Gas Stations & EV Charging",
+                "Public Transit",
+                "Utilities"
             ]
         },
         {
